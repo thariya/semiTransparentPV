@@ -15,7 +15,7 @@
 - Reflected and Transmitted light have different behaviours and different colours
 
 ## Reflection
-![Image](images/Reflectance_colors.jpg)
+![Image](images/Reflectance_colors.png)
 
 ## Transmission
-![Image](images/Transmittance_colors.jpg)
+![Image](images/Transmittance_colors.png)
