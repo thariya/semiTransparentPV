@@ -14,3 +14,8 @@
 - We see that various colours are generated when the sizes of the structures are changed
 - Reflected and Transmitted light have different behaviours and different colours
 
+## Reflection
+![Image](images/Reflectance_colors.jpg)
+
+## Transmission
+![Image](images/Transmittance_colors.jpg)
