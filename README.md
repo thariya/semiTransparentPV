@@ -7,7 +7,7 @@
 - One approach is to interleave transparent glass with strips of solar cell such that the solar cells are invisible to the naked eye
 - So as a starting point, can we identify what colours will appear to a human when standing on the other side of a solar panel made with such an interleaved design?
 
-![Image](images/pipeline.png)
+![Image](images/high-rise-windows.png)
 
 ## Results
 - We use the python meep FDTD library to solve Maxwell's equations for interleaved solar cell stacks with various solar cell widths
